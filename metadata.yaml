@@ -1,0 +1,39 @@
+_repo: Scott-s-Lady-of-the-Lake_45888
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45888-h/images/cover-image.jpg
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  editor:
+    agent_name: Bacon, Helen E. (Helen Estelle)
+    alias: Bacon, Helen Estelle
+    birthdate: 1860
+    gutenberg_agent_id: '43515'
+    url: http://www.gutenberg.org/2009/agents/43515
+description: ''
+gutenberg_issued: '2014-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45888'
+  lccn: '10031164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Lady of the Lake (Legendary character) -- Poetry'
+title: Scott's Lady of the Lake
+url: http://www.gutenberg.org/ebooks/45888
